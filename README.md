@@ -2,6 +2,8 @@
 
 This repository contains a Power BI project for analyzing and visualizing ecommerce sales data. The Power BI Ecommerce Sales Dashboard provides a comprehensive view of sales performance, customer behavior, and product insights to help businesses make informed decisions and identify opportunities for growth.
 
+![image](https://github.com/Aditya213594/sales_dashboard/blob/main/sales_dashboard.png)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
